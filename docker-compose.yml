@@ -1,0 +1,14 @@
+version: '3.1'
+
+services:
+  slogan_frontend:
+    build:
+      context: ./my-contenthub-app
+    ports:
+      - 3000:3000
+
+  contenthub_flask:
+    build:
+      context: ./contenthub_flask
+    ports:
+      - 5000:5000

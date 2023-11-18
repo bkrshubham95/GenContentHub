@@ -6,10 +6,13 @@ Flask-Cors==4.0.0
 importlib-metadata==6.8.0
 itsdangerous==2.1.2
 Jinja2==3.1.2
-llama_cpp_python==0.2.18
 MarkupSafe==2.1.3
 numpy==1.26.2
 typing_extensions==4.8.0
 Werkzeug==3.0.1
 zipp==3.17.0
 schedule
+gunicorn==20.1.0
+torch
+transformers
+peft

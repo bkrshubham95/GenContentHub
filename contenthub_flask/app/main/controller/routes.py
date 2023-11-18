@@ -6,6 +6,8 @@ import csv
 from flask_cors import CORS  
 
 
+
+
 model =None
 
 main = Blueprint('main', __name__)
