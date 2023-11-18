@@ -1,0 +1,152 @@
+[
+    {
+        "instruction": "Generate a slogan with creativity based on input for a marketing campaign based on the following keywords : shoes tennis",
+        "input": "medium",
+        "output": " On the court, on the go - always in style!"
+    },
+    {
+        "instruction": "Generate a slogan with style based on input for a marketing campaign based on the following keywords : shoes tennis",
+        "input": "medium",
+        "output": " On the court, on the go - always in style!"
+    },
+    {
+        "instruction": "Generate a slogan with tone for a marketing campaign based on the following keywords : shoes tennis",
+        "input": "medium",
+        "output": " On the court, on the go - always in style!"
+    },
+    {
+        "instruction": "Generate a slogan with creativity based on input for a marketing campaign based on the following keywords : shoes tennis",
+        "input": "medium",
+        "output": " On the court, on the go - always in style!"
+    },
+    {
+        "instruction": "Generate a slogan with style based on input for a marketing campaign based on the following keywords : shoes tennis",
+        "input": "medium",
+        "output": " On the court, on the go - always in style!"
+    },
+    {
+        "instruction": "Generate a slogan with tone for a marketing campaign based on the following keywords : shoes tennis",
+        "input": "medium",
+        "output": " On the court, on the go - always in style!"
+    },
+    {
+        "instruction": "Generate a slogan with creativity based on input for a marketing campaign based on the following keywords : shoes tennis",
+        "input": "medium",
+        "output": " Sole mates for life: you and our shoes!"
+    },
+    {
+        "instruction": "Generate a slogan with style based on input for a marketing campaign based on the following keywords : shoes tennis",
+        "input": "high",
+        "output": " Sole mates for life: you and our shoes!"
+    },
+    {
+        "instruction": "Generate a slogan with tone for a marketing campaign based on the following keywords : shoes tennis",
+        "input": "medium",
+        "output": " Sole mates for life: you and our shoes!"
+    },
+    {
+        "instruction": "Generate a slogan with creativity based on input for a marketing campaign based on the following keywords : tennis shoes ball",
+        "input": "low",
+        "output": " Step up your game with these sick kicks!"
+    },
+    {
+        "instruction": "Generate a slogan with style based on input for a marketing campaign based on the following keywords : tennis shoes ball",
+        "input": "medium",
+        "output": " Step up your game with these sick kicks!"
+    },
+    {
+        "instruction": "Generate a slogan with tone for a marketing campaign based on the following keywords : tennis shoes ball",
+        "input": "low",
+        "output": " Step up your game with these sick kicks!"
+    },
+    {
+        "instruction": "Generate a slogan with creativity based on input for a marketing campaign based on the following keywords : pizza ",
+        "input": "medium",
+        "output": " Pizza so good, it'll make your day go round and round!"
+    },
+    {
+        "instruction": "Generate a slogan with style based on input for a marketing campaign based on the following keywords : pizza ",
+        "input": "low",
+        "output": " Pizza so good, it'll make your day go round and round!"
+    },
+    {
+        "instruction": "Generate a slogan with tone for a marketing campaign based on the following keywords : pizza ",
+        "input": "high",
+        "output": " Pizza so good, it'll make your day go round and round!"
+    },
+    {
+        "instruction": "Generate a slogan with creativity based on input for a marketing campaign based on the following keywords : pizza ",
+        "input": "medium",
+        "output": " Pizza so good, it'll make your day go round and round!"
+    },
+    {
+        "instruction": "Generate a slogan with style based on input for a marketing campaign based on the following keywords : pizza ",
+        "input": "medium",
+        "output": " Pizza so good, it'll make your day go round and round!"
+    },
+    {
+        "instruction": "Generate a slogan with tone for a marketing campaign based on the following keywords : pizza ",
+        "input": "high",
+        "output": " Pizza so good, it'll make your day go round and round!"
+    },
+    {
+        "instruction": "Generate a slogan with creativity based on input for a marketing campaign based on the following keywords : pizza ",
+        "input": "medium",
+        "output": " Our pizza is sizzlin' hot, just like our service!"
+    },
+    {
+        "instruction": "Generate a slogan with style based on input for a marketing campaign based on the following keywords : pizza ",
+        "input": "low",
+        "output": " Our pizza is sizzlin' hot, just like our service!"
+    },
+    {
+        "instruction": "Generate a slogan with tone for a marketing campaign based on the following keywords : pizza ",
+        "input": "high",
+        "output": " Our pizza is sizzlin' hot, just like our service!"
+    },
+    {
+        "instruction": "Generate a slogan with creativity based on input for a marketing campaign based on the following keywords : pizza ",
+        "input": "high",
+        "output": " We deliver more than just pizza - we deliver happiness!"
+    },
+    {
+        "instruction": "Generate a slogan with style based on input for a marketing campaign based on the following keywords : pizza ",
+        "input": "low",
+        "output": " We deliver more than just pizza - we deliver happiness!"
+    },
+    {
+        "instruction": "Generate a slogan with tone for a marketing campaign based on the following keywords : pizza ",
+        "input": "medium",
+        "output": " We deliver more than just pizza - we deliver happiness!"
+    },
+    {
+        "instruction": "Generate a slogan with creativity based on input for a marketing campaign based on the following keywords : pizza ",
+        "input": "low",
+        "output": " Our crust is golden, our cheese is melted to perfection, and our service is always on point!"
+    },
+    {
+        "instruction": "Generate a slogan with style based on input for a marketing campaign based on the following keywords : pizza ",
+        "input": "high",
+        "output": " Our crust is golden, our cheese is melted to perfection, and our service is always on point!"
+    },
+    {
+        "instruction": "Generate a slogan with tone for a marketing campaign based on the following keywords : pizza ",
+        "input": "high",
+        "output": " Our crust is golden, our cheese is melted to perfection, and our service is always on point!"
+    },
+    {
+        "instruction": "Generate a slogan with creativity based on input for a marketing campaign based on the following keywords : pizza ",
+        "input": "high",
+        "output": " Pizza so good, you'll want to eat it all up and never stop at one slice!"
+    },
+    {
+        "instruction": "Generate a slogan with style based on input for a marketing campaign based on the following keywords : pizza ",
+        "input": "high",
+        "output": " Pizza so good, you'll want to eat it all up and never stop at one slice!"
+    },
+    {
+        "instruction": "Generate a slogan with tone for a marketing campaign based on the following keywords : pizza ",
+        "input": "medium",
+        "output": " Pizza so good, you'll want to eat it all up and never stop at one slice!"
+    }
+]
