@@ -4,7 +4,7 @@ Prerequisite:
 
 Steps to run locally:
 1. Clone the repository
-2. Navigate to GenContentHub/contenthub_flask and download the model from the link - ().
+2. Navigate to GenContentHub/contenthub_flask and download the model from the link - (https://drive.google.com/file/d/1Qm9cSozYtbaeC83eSsDlmL3L4SctKjOm/view?usp=sharing).
 3. run the command  from directory /contenthub_flask/ -> `docker build -t contenthub_flask .`
 4. run the command from directory /my-contenthub-app/ -> `docker build -t my-contenthub-app .`
 5. run the command from top-level directory where deployemnet.yaml is present -> `kubectl apply -f deployment.yaml`
